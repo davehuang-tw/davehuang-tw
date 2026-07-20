@@ -42,13 +42,6 @@ Topics include product development, indie hacking, and philosophy.
 - Web3: ![Eth](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)&nbsp;
 ![Web3](https://img.shields.io/badge/web3%20js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)&nbsp;
 
-### Currently Reading
-
-![51m+kYTstpL](https://github.com/user-attachments/assets/7b6af586-7061-4e02-bf0c-991126786ee2)
-
-[The Staff Engineer's Path](https://www.amazon.com/-/zh_TW/Staff-Engineers-Path-Individual-Contributors/dp/B0CV33HPBM)
-
-
 ## 💬 Let's Connect
 
 Always happy to chat about:
